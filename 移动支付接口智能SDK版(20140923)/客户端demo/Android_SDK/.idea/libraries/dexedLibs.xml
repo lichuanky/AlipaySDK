@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/alipay_sdk_demo/bin/dexedLibs/alipay_lib-7e42335c75f51b1f2765fd7e40977419.jar!/" />
+      <root url="jar://$PROJECT_DIR$/alipay_sdk_demo/bin/dexedLibs/alipay-d86bbce85589aad271592d5b88df2629.jar!/" />
+      <root url="jar://$PROJECT_DIR$/alipay_sdk_demo/bin/dexedLibs/android-support-v4-6f54554ea67b45264505300d339946a5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
